@@ -1,6 +1,6 @@
 .wrapper {
-    width: 360px;
-    height: 360px;
+    max-width: 360px;
+    max-height: 80vh;
     margin: auto;
     margin-top: 3%;
     background-color: rgb(204, 183, 160);
