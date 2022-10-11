@@ -1,6 +1,6 @@
 .wrapper {
-    width: 750px;
-    height: 750px;
+    width: 360px;
+    height: 360px;
     margin: auto;
     margin-top: 3%;
     background-color: rgb(204, 183, 160);
@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: space-around;
     font-family: 'Tahoma';
-    font-size: 30px;
+    font-size: 12px;
     text-align: center;
     border-radius: 5%;
     padding: 1%;
@@ -29,4 +29,6 @@
 
 .resultSmile {
     border-radius: 50%;
+    width: 80px;
+    height: 80px;
 }
