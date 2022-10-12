@@ -208,7 +208,7 @@ function generateNum() {
         };
 
         if (tens === 1) {
-            switch (unitsK) {
+            switch (units) {
                 case 0:
                     verbalNum = verbalNum + 'десять ';
                     break;
